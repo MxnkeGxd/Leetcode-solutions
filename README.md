@@ -18,12 +18,6 @@ I'm building this repository as part of my daily coding practice and preparation
 - Recursion and Backtracking
 - Dynamic Programming
 
-## Solutions
-
-| Problem | Topic | Approach | Difficulty |
-|---|---|---|---|
-| [Two Sum](https://leetcode.com/problems/two-sum/) | Arrays, Hashing | HashMap | Easy |
-
 ## My Goal
 
 Solve problems consistently, understand the patterns behind them, and improve my problem-solving skills over time.
